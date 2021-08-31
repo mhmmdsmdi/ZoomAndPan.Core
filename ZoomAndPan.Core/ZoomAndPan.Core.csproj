@@ -11,6 +11,10 @@
     <Description>This is a .net core version of ZoonAndPan.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <SignAssembly>false</SignAssembly>
+    <RepositoryUrl>https://github.com/mhmmdsmdi/ZoomAndPan.Core</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mhmmdsmdi/ZoomAndPan.Core</PackageProjectUrl>
+    <RepositoryType>C#</RepositoryType>
+    <PackageTags>ZoomAndPan Core C#</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
-
 </Project>
