@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <TargetFramework>net9.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
     <ApplicationIcon />
     <StartupObject />
@@ -15,7 +15,7 @@
     <RepositoryType>C#</RepositoryType>
     <PackageTags>ZoomAndPan Core C#</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>8.0.1</Version>
+    <Version>9.0.0</Version>
     <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 </Project>
